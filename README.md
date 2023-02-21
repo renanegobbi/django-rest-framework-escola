@@ -25,7 +25,7 @@ Uma simples API utilizando a linguagem Python e Django Rest Framework, além de 
 O projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 - [Python 3.7.4](https://www.python.org/downloads/release/python-374/) - linguagem de programação.
-- [Django 3.0.7](https://github.com/django/django/releases/tag/3.0.7) - framework para desenvolvimento rápido para web, escrito em Python e que utiliza o padrão model-template-view.
+- [Django 3.0.7](https://github.com/django/django/releases/tag/3.0.7) - framework para desenvolvimento rápido para web, escrito em Python.
 - [Django REST Framework 3.14.0](https://www.django-rest-framework.org/) - kit de ferramentas para construir APIs da Web.
 - [Visual Studio Code 1.71.1](https://code.visualstudio.com) - editor de código-fonte.
 - [DBeaver 21.3.4](https://dbeaver.io/download/) - ferramenta que tem por objetivo conectar e manipular vários tipos de banco de dados.       
